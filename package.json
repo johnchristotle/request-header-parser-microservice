@@ -1,0 +1,16 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "API for FreeCodeCamp Backed Certification Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Christotle Agholor",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
